@@ -1,1 +1,7 @@
-
+- ```a +  b```  --> Addition
+- ```a -  b```  --> Substracion
+- ```a *  b```  --> Multiplication
+- ```a /  b```  --> Division
+- ```a %  b```  --> Modulus
+- ```a ** b``` --> Multiplication
+- ```a // b``` --> Floor Division
