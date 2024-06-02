@@ -3,5 +3,5 @@
 - ```a *  b```  --> Multiplication
 - ```a /  b```  --> Division
 - ```a %  b```  --> Modulus
-- ```a ** b``` --> Multiplication
-- ```a // b``` --> Floor Division
+- ```a ** b```  --> Exponentiation
+- ```a // b```  --> Floor Division
